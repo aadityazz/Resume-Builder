@@ -20,4 +20,5 @@ CV generator application developed using ReactJS, Express JS,  NodeJS and Mongo 
 ![image](https://user-images.githubusercontent.com/67819043/173674858-6ca320a7-1253-4d59-b6b3-ec181bfbd57d.png)
 
 
-the backend part is running on low end server that's allot you may face many issues while creating resume better to use it on your local system.
+the backend part is running on low end server that is very slow for serving you may face many issues while creating resume better to use it on your local system.
+backend is running on render.io
