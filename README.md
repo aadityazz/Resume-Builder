@@ -1,4 +1,4 @@
-# Resume-Bulder
+# Resume-Builder
 
 CV generator application developed using ReactJS, Express JS,  NodeJS and Mongo Db.
 
