@@ -8,7 +8,7 @@ app.use(cors());
 require("dotenv").config();
 
 mongoose
-  .connect("mongodb+srv://aadityazz:Aaditya@02@cluster0.xfyyv.mongodb.net/?retryWrites=true&w=majority", {
+  .connect(process.env.DB_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
